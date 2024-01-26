@@ -21,22 +21,10 @@
 
 ## 参考にした web サイトなど
 
-  - 『Django プロフェッショナルWebプログラミング』（MDN）
+  - 『プロフェッショナルWebプログラミング　Django』田中 潤　著/伊藤 陽平　著（MDN）
+  
+  - Cloud9とGithubの連携については、まえたつさんの下記Qitta記事を参考にしました：
+   https://qiita.com/tat_mae084/items/29c14263faa6676950e5
 
 
 
-
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
