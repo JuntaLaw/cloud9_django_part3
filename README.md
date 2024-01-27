@@ -6,7 +6,7 @@
 
 ## DEMO
 
-  - デプロイしている場合はURLを記入（任意）---AWSデプロイチャレンジ中「
+  - デプロイしている場合はURLを記入（任意）---AWSデプロイチャレンジ中
 
 ## 紹介と使い方
 
@@ -23,7 +23,7 @@
 
   - 本来であれば、React Nativeのフロントに繋げるところまでやってみたかったが、力尽きました
   - AWS S3とIAMも使用してみたくチャレンジしたが、IAMユーザーの作成がどうしてもエラーになってしまってできなかった
-    -　下記エラーメッセージ：
+  - 下記エラーメッセージ：
         -　ユーザーが作成されませんでした。User: arn:aws:sts::536579536218:assumed-role/voclabs/user2999449=15_Junko_Sato is not authorized to perform: iam:CreateUser on resource: arn:aws:iam::536579536218:user/kadai10sns because no identity-based policy allows the iam:CreateUser action   
 　- AWSデプロイチャレンジ中
 
